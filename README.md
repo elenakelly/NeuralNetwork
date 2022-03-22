@@ -23,3 +23,14 @@ This process happens for a number of epochs specified in the initalisation. <br 
 ### Results
 Finally we keep track of the cumulative error rate per epoch for tracking and plotting reasons.<br />
 The number of epochs as well as the learning rates are hard coded in the main method of the code and two hard coded examples of predictions are exemplified after the training has finished.
+
+
+## Installation
+The program is in Python <br />
+In order to use the code you need to install only Numpy and Matplot packages
+   ```sh
+    import numpy as np
+    import matplotlib.pyplot as plt
+   ```
+
+
