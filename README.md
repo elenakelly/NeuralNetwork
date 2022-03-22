@@ -6,6 +6,7 @@ In the output the network should learn exactly the same as the input.<br />
 So when the input layer is : <0,0,0,1,0,0,0,0> , the output to aim for is also: <0,0,0,1,0,0,0,0>. <br />
 The network is trying to learn on the 8 different learning examples with a reproducing function.<br />
 Then study the weights and the activations of the hidden nodes of network and try to interpret them. 
+<img width="685" alt="Screenshot 2022-03-22 at 5 04 35 PM" src="https://user-images.githubusercontent.com/59971317/159525964-e5960a71-6393-4f82-a0eb-43894056e512.png">
 
 
 ### Initialization
